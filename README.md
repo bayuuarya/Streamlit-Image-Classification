@@ -35,7 +35,7 @@ Model ini mengklasifikasikan citra daun kacang tanah berdasarkan fitur visual me
 
 ## 📸 Contoh Penggunaan
 
-1. Buka aplikasi melalui browser (biasanya di `http://localhost:8501`)
+1. Buka aplikasi melalui browser (https://app-image-classification-byay.streamlit.app/)
 2. Unggah gambar daun kacang tanah.
 3. Klik tombol **Prediksi Penyakit**.
 4. Lihat hasil prediksi dan penjelasannya.
